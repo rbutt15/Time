@@ -1,0 +1,17 @@
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\bin\Debug\Time.exe.config
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\bin\Debug\Time.exe
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\bin\Debug\Time.pdb
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\bin\Debug\Time.xml
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.vbprojAssemblyReference.cache
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\MainWindow.g.vb
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Application.g.vb
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time_MarkupCompile.cache
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time_MarkupCompile.lref
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\MainWindow.baml
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time.g.resources
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time.Resources.resources
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.vbproj.GenerateResource.cache
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\DateAndTime.vbproj.CoreCompileInputs.cache
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time.exe
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time.xml
+C:\Users\Reuben\source\repos\DateAndTime\DateAndTime\obj\Debug\Time.pdb
